@@ -1,7 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 [![Twitter Badge](https://img.shields.io/badge/-@AzureSagar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AzureSagar)](https://twitter.com/azuresagar) [![Linkedin Badge](https://img.shields.io/badge/-azuresagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ladsagar/)](https://www.linkedin.com/in/ladsagar/) [![Medium Badge](https://img.shields.io/badge/-@azuresagar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sagu94271/)](https://sagu94271.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/sagu94271@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagu94271@gmail.com)](mailto:sagu94271@gmail.com)
 
