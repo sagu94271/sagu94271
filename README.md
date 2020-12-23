@@ -1,4 +1,4 @@
-###
+### Hello 
 
 ★ Experienced Azure Platform evangelist with strong focus on driving cloud adoption for enterprise organizations using Microsoft Cloud Solutions & Offerings
 
@@ -18,3 +18,9 @@
 ∞ Challenge
 ∞ Innovation
 ∞ Continuous learning 
+
+Community
+
+Twitter handle : https://twitter.com/AzureSagar
+
+List of Microsoft Certifications : https://www.youracclaim.com/users/sagar-lad/badges
