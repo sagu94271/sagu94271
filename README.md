@@ -29,15 +29,9 @@ Talk to me about:
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Sagar Blog](https://sagu94271.medium.com).
 - 🎯 Portfolio site: [Portfolio](https://sagu94271.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Sagar Lad](Coming Soon).
+- 🔔 Subscribe: [Sagar Lad](Coming Soon).
+- 🏆 Certifications: https://www.youracclaim.com/users/sagar-lad/badges
 
 ![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=sagu94271&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sagu94271.sagu94271)
-
-
-
-
-
-
-List of Microsoft Certifications : https://www.youracclaim.com/users/sagar-lad/badges
