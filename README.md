@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/sagu94271/sagu94271/master/sea.png "Header")](http://sagarblog.azurewebsites.net/)
+
 <h2> 𝐇𝐞𝐥𝐥𝐨 Folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Twitter Badge](https://img.shields.io/badge/-@AzureSagar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AzureSagar)](https://twitter.com/azuresagar) [![Linkedin Badge](https://img.shields.io/badge/-azuresagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ladsagar/)](https://www.linkedin.com/in/ladsagar/) [![Medium Badge](https://img.shields.io/badge/-@azuresagar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sagu94271/)](https://sagu94271.medium.com)
