@@ -23,7 +23,7 @@ Talk to me about:
 - Data Engineering
 - Data Science
 
-## Hello World!! 🤔
+## Connect with Me!! 🤔
 - 💬 Ask me about anything an everything.
 - 📫 Read my blogs: [Sagar Blog](https://sagu94271.medium.com).
 - 🎯 Portfolio site: [Portfolio](https://sagu94271.github.io/Portfolio-Site/index.html).
